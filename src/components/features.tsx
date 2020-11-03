@@ -9,19 +9,19 @@ import Scroll from './svgs/scroll'
 
 const features = [
   {
-    text: 'Blazing fast',
+    text: 'Muito rápido',
     icon: Lightning,
   },
   {
-    text: 'JAMstack based',
+    text: 'Baseado em JAMstack',
     icon: Jamstack,
   },
   {
-    text: 'Always available',
+    text: 'Sempre disponível',
     icon: Wifi,
   },
   {
-    text: 'Customizable',
+    text: 'Customizável',
     icon: Edit,
   },
   {
