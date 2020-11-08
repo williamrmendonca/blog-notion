@@ -5,7 +5,7 @@
   --gap-double: 2rem;
 
   --bg: #fff;
-  --fg: #000;
+  --fg: rgb(197, 6, 245);
   --accents-1: #111;
   --accents-2: #333;
   --accents-3: #888;
@@ -204,6 +204,7 @@ pre.dark[class*='language-'] {
   margin: 4rem auto;
   width: 920px;
   max-width: calc(100vw - var(--gap-double));
+  color: var(--fg);
 }
 
 .feature {
