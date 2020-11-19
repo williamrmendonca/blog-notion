@@ -1,3 +1,4 @@
+// icone edit
 export default props => (
   <svg
     viewBox="0 0 24 24"
