@@ -1,3 +1,4 @@
+// icone jamstack
 export default props => (
   <svg
     width="24"
